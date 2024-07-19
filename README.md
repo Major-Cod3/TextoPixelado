@@ -57,3 +57,11 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Para mais detalhes, consulte o arquivo CONTRIBUTING.md.
+## Exemplos
+
+A pasta [imagens](./imagens) contém arquivos de exemplo para demonstrar o funcionamento do **TextoPixelado**.
+
+- **https://github.com/Ricardo184/TextoPixelado/blob/main/Imagens/imagem1.jpg**: Esta é a imagem original usada como exemplo.
+- **imagem_exemplo.txt**: Este arquivo contém a representação textual da imagem `imagem_exemplo.png`, gerada pelo script.
+
+Você pode usar esses arquivos para ver como a imagem é convertida para texto e como o resultado é exibido no terminal.
