@@ -20,3 +20,9 @@ Esta pasta contém exemplos de imagens e suas representações textuais geradas 
 2. **Representação Textual**: O arquivo `imagem1.txt` contém o texto que foi exibido no terminal e corresponde à imagem.
 
 Você pode visualizar esses arquivos diretamente nesta pasta para ver como o **TextoPixelado** converte imagens em representações textuais.
+# mais exemplos 
+
+![imagem2.jpg](imagem2.jpg)
+[imagem2.txt](imagem2.txt)
+![imagem3.jpg](imagem2.jpg)
+[imagem3.txt](imagem2.txt)
