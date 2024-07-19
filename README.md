@@ -57,5 +57,3 @@ Este projeto está licenciado sob a [Licença MIT](LICENSE).
 ## Contribuição
 
 Sinta-se à vontade para contribuir com melhorias ou correções. Para mais detalhes, consulte o arquivo CONTRIBUTING.md.
-
-
