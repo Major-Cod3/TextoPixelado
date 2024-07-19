@@ -6,5 +6,3 @@
 
 ```bash
 python TextoPixelado.py [opções] [imagem]
-
-
