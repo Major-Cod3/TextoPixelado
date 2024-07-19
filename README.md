@@ -7,5 +7,4 @@
 ```bash
 python TextoPixelado.py [opções] [imagem]
 
-Opções
--o CARACTERE  Define o caractere usado para representar cada pixel da imagem. Exemplo: '■', '▒', '░', '█', '□', '●', '○'. Valor padrão: '■'.-s ARQUIVO    Define o nome do arquivo onde a saída será salva. Se não fornecido, a saída será exibida no terminal.-h            Mostra a mensagem de ajuda.
+
