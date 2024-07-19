@@ -64,4 +64,4 @@ A pasta [Imagens](./Imagens) contém arquivos de exemplo para demonstração do 
 - [imagem1.jpg](https://github.com/Ricardo184/TextoPixelado/blob/main/Imagens/imagem1.jpg): Esta é a imagem original usada como exemplo.
 - [imagem1.txt](https://github.com/Ricardo184/TextoPixelado/blob/main/Imagens/imagem1.txt): Este arquivo contém a representação textual da imagem `imagem1.jpg`, gerada pelo script.
 
-Você pode visualizar esses arquivos diretamente na galeria de imagens do GitHub para ver como a imagem é convertida em texto e como o resultado é apresentado no terminal.
+Você pode visualizar esses arquivos diretamente na pasta [Imagens](./Imagens) do GitHub para ver como a imagem é convertida em texto e como o resultado é apresentado no terminal.
