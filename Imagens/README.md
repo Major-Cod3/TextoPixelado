@@ -4,19 +4,19 @@ Esta pasta contém exemplos de imagens e suas representações textuais geradas 
 
 ## Arquivos de Exemplo
 
-### Imagem Original
+### Imagem da Tela do Terminal
 
 - ![imagem1.jpg](imagem1.jpg)
-  - Esta é a imagem original usada como exemplo.
+  - Esta é uma captura de tela do terminal mostrando a representação da imagem convertida em texto pelo script **TextoPixelado**.
 
 ### Representação Textual
 
 - [imagem1.txt](imagem1.txt)
-  - Este arquivo contém a representação textual da imagem `imagem1.jpg`, gerada pelo script **TextoPixelado**.
+  - Este arquivo contém a representação textual da imagem `imagem1.jpg`, gerada pelo script.
 
 ## Como Funciona
 
-1. **Imagem Original**: A imagem `imagem1.jpg` é exibida acima.
-2. **Representação Textual**: O arquivo `imagem1.txt` mostra a conversão da imagem em texto com caracteres ASCII.
+1. **Imagem da Tela do Terminal**: A imagem `imagem1.jpg` mostra a saída do script no terminal.
+2. **Representação Textual**: O arquivo `imagem1.txt` contém o texto que foi exibido no terminal e corresponde à imagem.
 
-Você pode visualizar os arquivos diretamente nesta pasta para entender como o **TextoPixelado** converte imagens em representações textuais.
+Você pode visualizar esses arquivos diretamente nesta pasta para ver como o **TextoPixelado** converte imagens em representações textuais.
