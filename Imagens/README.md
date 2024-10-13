@@ -7,7 +7,6 @@ Esta pasta contém exemplos de imagens e suas representações textuais geradas 
 ### Imagem da Tela do Terminal
 
 - ![imagem1.jpg](imagem1.jpg)
-  - Esta é uma captura de tela do terminal mostrando a representação da imagem convertida em texto pelo script **TextoPixelado**.
 
 ### Representação Textual
 
@@ -26,15 +25,13 @@ Você pode visualizar esses arquivos diretamente nesta pasta para ver como o **T
 ### Exemplo 2
 
 - ![imagem2.jpg](imagem2.jpg)
-  - Captura de tela do terminal para um segundo exemplo.
-
+  
 - [imagem2.txt](imagem2.txt)
   - Representação textual da imagem `imagem2.jpg`.
 
 ### Exemplo 3
 
 - ![imagem3.jpg](imagem3.jpg)
-  - Captura de tela do terminal para um terceiro exemplo.
 
 - [imagem3.txt](imagem3.txt)
   - Representação textual da imagem `imagem3.jpg`.
